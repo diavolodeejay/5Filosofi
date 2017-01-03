@@ -1,1 +1,2 @@
 d:\documenti\visual studio 2015\Projects\toGit\5Filosofi\5Filosofi\bin\Debug\5Filosofi.exe.config
+D:\Documenti\Visual Studio 2015\Projects\5Filosofi\5Filosofi\bin\Debug\5Filosofi.exe.config

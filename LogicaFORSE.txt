@@ -1,0 +1,14 @@
+Start
+-Cfilosofo
+-while true
+--Controlla se ha la forchetta con N (a parte l'ultimo che fa N+1)
+---if SI
+---Provo a prendere N + 1 (a parte l'ultimo che prende N)
+-----if SI
+-----Mangio(x time)
+-----if NO
+-----Mollo tutto e penso(random time)
+---if NO
+---Mollo tutto e penso(random time)
+-endwhile
+End
