@@ -24,6 +24,10 @@ namespace _5Filosofi
                     mNumero = value;
             }
         }
-
+        Random castoro = new Random();
+        void ciao()
+        {
+            castoro.Next(DateTime.Now.Millisecond);
+        }
     }
 }
